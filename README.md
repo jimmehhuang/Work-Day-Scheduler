@@ -19,6 +19,8 @@ Click the link below for the live deployed application on GitHub.
 
 For typical work day purposes, this planner loops from 9am through 5pm and is set to today's date using Moment.js. Users can enter and save text into any of the colored fields that are coded past, present, and future, noted as grey, red, and green in that order.Users can type information into the fields and then click the save buttons to save the text into localStorage. Upon page refresh, information should be saved and still present for reading.
 
+(Screenshots taken separately)
+
 ![top](https://user-images.githubusercontent.com/113392613/202874161-8a2f4a7b-36e2-4834-b96e-ac9e5ad6f29e.png)
 ![bottom](https://user-images.githubusercontent.com/113392613/202874164-4b323cd0-b38f-4425-8017-85b40f1801a3.png)
 
