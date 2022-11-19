@@ -13,7 +13,7 @@ This project is a simple work day planner built using simple JavaScript and JQue
 
 Click the link below for the live deployed application on GitHub.
 
-
+https://jimmehhuang.github.io/Work-Day-Scheduler/ 
 
 ## Usage
 
